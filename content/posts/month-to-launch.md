@@ -1,5 +1,5 @@
 ---
-title: "A month till launch"
+title: "A Month Till Launch!"
 date: 2022-06-05T10:36:53+01:00
 draft: false
 ---
